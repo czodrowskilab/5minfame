@@ -1,0 +1,5 @@
+Source: Ogura, K., Sato, T., Yuki, H. et al. Support Vector Machine model for hERG inhibitory activities based on the integrated hERG database using descriptor selection by NSGA-II. Sci Rep 9, 12220 (2019). https://doi.org/10.1038/s41598-019-47536-3
+
+Licensed: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
+
+Changes: The only changes made were the conversion of the first sheet of the XLSX to CSV and the filtering out of all molecules with invalid valences.

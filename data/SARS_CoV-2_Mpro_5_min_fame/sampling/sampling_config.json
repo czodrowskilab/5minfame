@@ -1,0 +1,18 @@
+{
+    "logging": {
+        "job_id": "Sample_Mpro_1",
+        "job_name": "Sample_Mpro",
+        "logging_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/sampling/progress.log",
+        "recipient": "local",
+        "sender": "http://127.0.0.1"
+    },
+    "parameters": {
+        "batch_size": 128,
+        "model_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/RL/results/Agent.ckpt",
+        "num_smiles": 100,
+        "output_smiles_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/sampling/sampled/sampled.smi",
+        "with_likelihood": false
+    },
+    "run_type": "sampling",
+    "version": 2
+}

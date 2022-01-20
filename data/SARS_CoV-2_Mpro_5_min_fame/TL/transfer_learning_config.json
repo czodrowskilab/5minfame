@@ -1,0 +1,34 @@
+{
+    "logging": {
+        "job_id": "TL1",
+        "job_name": "Transfer Learning",
+        "logging_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/TL/progress.log",
+        "recipient": "local",
+        "sender": "http://127.0.0.1"
+    },
+    "parameters": {
+        "adaptive_lr_config": {
+            "average_steps": 4,
+            "gamma": 0.8,
+            "min": 1e-05,
+            "mode": "constant",
+            "patience": 8,
+            "restart_times": 0,
+            "restart_value": 1e-05,
+            "sample_size": 10000,
+            "start": 0.0005,
+            "step": 1,
+            "threshold": 0.0001
+        },
+        "batch_size": 128,
+        "input_model_path": "/mnt/NVMe/Reinvent2-master/data/augmented.prior",
+        "input_smiles_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/TL/SARS-CoV-2_ChemSpace.smi",
+        "num_epochs": 20,
+        "output_model_path": "/mnt/NVMe/Reinvent2-master/production/SARS_CoV-2_Mpro_5_min_fame/TL/focused.agent",
+        "randomize": true,
+        "save_every_n_epochs": 1,
+        "standardize": true
+    },
+    "run_type": "transfer_learning",
+    "version": 2
+}

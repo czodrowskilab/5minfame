@@ -1,0 +1,18 @@
+properties:
+  iteration_limit: 100
+  return_first: true
+  time_limit: 30
+  C: 1.4
+  cutoff_cumulative: 0.995
+  cutoff_number: 50
+  max_transforms: 6
+
+policy:
+  files:
+    full_uspto:
+      - /mnt/NVMe/aizynthfinder/full_uspto_03_05_19_rollout_policy.hdf5
+      - /mnt/NVMe/aizynthfinder/full_uspto_03_05_19_unique_templates.hdf5
+stock:
+  files:
+    zinc: /mnt/NVMe/aizynthfinder/zinc_stock_17_04_20.hdf5
+    Enamine_MolPort: /mnt/NVMe/aizynthfinder/stock_Enamine_MolPort.hdf5

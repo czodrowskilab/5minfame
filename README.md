@@ -5,7 +5,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ## Content
 
 ### [Track Optuna Hyperparameter Tuning with MLflow](2022_03_18-Baltruschat-Optuna_with_MLflow.ipynb)
-**Date:** 18.03.2022<br>
+**Date:** 2022-03-18<br>
 **Author:** Marcel Baltruschat
 
 ### [CReM - chemically reasonable mutations](2022_02_25-Hazemann-CReM.ipynb)

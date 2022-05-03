@@ -4,9 +4,21 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Streamlit](2022_04_29-Vatheuer-Streamlit.ipynb)
+**Date:** 2022-04-29<br>
+**Author:** Helge Vatheuer
+
+### [OpenAI and Phrasebank](2022-04-08_Ha_OpenAI_and_Phrasebank.ipynb)
+**Date:** 2022-04-08<br>
+**Author:** Son Ha
+
 ### [Track Optuna Hyperparameter Tuning with MLflow](2022_03_18-Baltruschat-Optuna_with_MLflow.ipynb)
 **Date:** 2022-03-18<br>
 **Author:** Marcel Baltruschat
+
+### [molplotly](2022-03-11_Czodrowski_molplotly.ipynb)
+**Date:** 2022-03-11<br>
+**Author:** Prof. Dr. Paul Czodrowski
 
 ### [CReM - chemically reasonable mutations](2022_02_25-Hazemann-CReM.ipynb)
 **Date:** 2022-02-25<br>
@@ -20,17 +32,13 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 **Date:** 2022-02-10<br>
 **Author:** Helge Vatheuer
 
-### [GNN Interpretability](2022_01_28-Baltruschat-GNN_Interpretability.ipynb)
-**Date:** 2022-01-28<br>
-**Author:** Marcel Baltruschat
-
-### [molplotly](2022-03-11_Czodrowski_molplotly.ipynb)
-**Date:** 2022-03-11<br>
-**Author:** Prof. Dr. Paul Czodrowski
-
 ### [Quick intro to Optuna](2022-02-04-Tandon-QuickIntroOptuna.ipynb)
 **Date:** 2022-02-04<br>
 **Author:** Aishvarya Tandon
+
+### [GNN Interpretability](2022_01_28-Baltruschat-GNN_Interpretability.ipynb)
+**Date:** 2022-01-28<br>
+**Author:** Marcel Baltruschat
 
 ### [Graph Classification with Graph Neural Networks](2022-01-21-Ha-PyG_Graph_Classification.ipynb)
 **Date:** 2022-01-21<br>
@@ -44,6 +52,10 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 **Date:** 2021-12-17<br>
 **Author:** Julien Hazemann
 
+### [Data Visualisation Catalogue](2021-11-12-Gretz-Datavisualisation.ipynb)
+**Date:** 2021-11-12<br>
+**Author:** Juliana Gretz
+
 ### [Generating a SARS-CoV Mpro chemical space with Reinvent](2021_11_05-Hazemann-Reinvent_SARS_CoV_2_Mpro.ipynb)
 **Date:** 2021-11-05<br>
 **Author:** Julien Hazemann
@@ -52,6 +64,10 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 **Date:** 2021-10-08<br>
 **Author:** Juliana Gretz
 
+### [Pyro Showcase](2021-09-24_Ha_Pyro_Showcase.ipynb)
+**Date:** 2021-09-24<br>
+**Author:** Son Ha
+
 ### [mols2grid](2021_09_02-czodrowski-mols2grid.ipynb)
 **Date:** 2021-09-02<br>
 **Author:** Prof. Dr. Paul Czodrowski
@@ -59,6 +75,10 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [Impact of chemical transformations on the hERG inhibition](2021_08_27-Hazemann-hERG_MMP_analysis_with_Knime.ipynb)
 **Date:** 2021-08-27<br>
 **Author:** Julien Hazemann
+
+### [Load and write Pandas Dataframe faster, securely and efficiently with Parquet](2021-08-20-Tandon-Load_and_write_Pandas_Dataframe_faster_securely_and_efficiently_with_Parquet.ipynb)
+**Date:** 2021-08-20<br>
+**Author:** Aishvarya Tandon
 
 ### [DeepFrag](2021_07_23-Vatheuer-DeepFrag.ipynb)
 **Date:** 2021-07-23<br>
@@ -75,15 +95,3 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [What's new in Python 3.8 and 3.9](2021_02_04-baltruschat-whats_new_in_python.ipynb)
 **Date:** 2021-02-04<br>
 **Author:** Marcel Baltruschat
-
-### [Data Visualisation Catalogue](2021-11-12-Gretz-Datavisualisation.ipynb)
-**Date:** 2021-11-12<br>
-**Author:** Juliana Gretz
-
-### [Pyro Showcase](2021-09-24_Ha_Pyro_Showcase.ipynb)
-**Date:** 2021-09-24<br>
-**Author:** Son Ha
-
-### [Load and write Pandas Dataframe faster, securely and efficiently with Parquet](2021-08-20-Tandon-Load_and_write_Pandas_Dataframe_faster_securely_and_efficiently_with_Parquet.ipynb)
-**Date:** 2021-08-20<br>
-**Author:** Aishvarya Tandon

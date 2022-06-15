@@ -4,6 +4,10 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Decision Tree Classifier](2022_06_10_Alker_DecisionTreeClassifier.ipynb)
+**Date:** 2022-06-10<br>
+**Author:** Katharina Alker
+
 ### [(How to) Use Cohen's kappa for your binary classification models!](2022-05-06_Tandon-use_cohens_kappa_for_your_binary_classification_models.ipynb)
 **Date:** 2022-05-06<br>
 **Author:** Aishvarya Tandon

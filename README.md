@@ -110,4 +110,4 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [What's new in Python 3.8 and 3.9](2021_02_04-baltruschat-whats_new_in_python.ipynb)
 **Date:** 2021-02-04<br>
 **Author:** Marcel Baltruschat<br>
-**Description:** his notebook shows a quick summary of some interesting and useful new features introduced in Python 3.8 and 3.9.
+**Description:** This notebook shows a quick summary of some interesting and useful new features introduced in Python 3.8 and 3.9.

@@ -101,7 +101,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [Speed Up Cheminformatics](2021_07_16-Baltruschat-speed_up_cheminformatics.ipynb)
 **Date:** 2021-07-16<br>
 **Author:** Marcel Baltruschat<br>
-**Description:** This notebooks shows possibilities to speed up cheminformatics using NVIDIA® RAPIDS and Python Multiprocessing. This example includes exploring chemical space, calculating fingerprints, perform clustering or train machine learning models.
+**Description:** This notebook shows possibilities to speed up cheminformatics using NVIDIA® RAPIDS and Python Multiprocessing. This example includes exploring chemical space, calculating fingerprints, perform clustering or train machine learning models.
 
 ### [Covid-19 Moonshot](2021_07_09-czodrowski-covid19moonshotresources.ipynb)
 **Date:** 2021-07-09<br>

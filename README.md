@@ -12,7 +12,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [(How to) Use Cohen's kappa for your binary classification models!](2022-05-06_Tandon-use_cohens_kappa_for_your_binary_classification_models.ipynb)
 **Date:** 2022-05-06<br>
 **Author:** Aishvarya Tandon<br>
-**Description*:** This notebook introduces you to Cohen's kappa and how to incorporate it with your binary classification model workflow. K-fold cross-validation and Optuna hyperparameter optimization are also discussed.
+**Description:** This notebook introduces you to Cohen's kappa and how to incorporate it with your binary classification model workflow. K-fold cross-validation and Optuna hyperparameter optimization are also discussed.
 
 ### [Streamlit](2022_04_29-Vatheuer-Streamlit.ipynb)
 **Date:** 2022-04-29<br>

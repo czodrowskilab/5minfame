@@ -11,7 +11,8 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ### [(How to) Use Cohen's kappa for your binary classification models!](2022-05-06_Tandon-use_cohens_kappa_for_your_binary_classification_models.ipynb)
 **Date:** 2022-05-06<br>
-**Author:** Aishvarya Tandon
+**Author:** Aishvarya Tandon<br>
+**Description:** This notebook introduces you to Cohen's kappa and how to incorporate it with your binary classification model workflow. It's use with k-fold cross-validation and Optuna hyperparameter optimization is also discussed.
 
 ### [Streamlit](2022_04_29-Vatheuer-Streamlit.ipynb)
 **Date:** 2022-04-29<br>
@@ -45,7 +46,8 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ### [Quick intro to Optuna](2022-02-04-Tandon-QuickIntroOptuna.ipynb)
 **Date:** 2022-02-04<br>
-**Author:** Aishvarya Tandon
+**Author:** Aishvarya Tandon<br>
+**Description:** This notebook introduces you to Optuna and provides cheminformatics examples for its usage.
 
 ### [GNN Interpretability](2022_01_28-Baltruschat-GNN_Interpretability.ipynb)
 **Date:** 2022-01-28<br>
@@ -92,7 +94,8 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ### [Load and write Pandas Dataframe faster, securely and efficiently with Parquet](2021-08-20-Tandon-Load_and_write_Pandas_Dataframe_faster_securely_and_efficiently_with_Parquet.ipynb)
 **Date:** 2021-08-20<br>
-**Author:** Aishvarya Tandon
+**Author:** Aishvarya Tandon<br>
+**Description:** In this notebook, I compare different dataframe saving and reading techniques, with the focus on parquet. I show that using parquet to save and read big dataframes has advantages over other methods. 
 
 ### [DeepFrag](2021_07_23-Vatheuer-DeepFrag.ipynb)
 **Date:** 2021-07-23<br>

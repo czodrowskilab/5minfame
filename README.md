@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Tikzplotlib](2022_06_24-Kroell-Tikzplotlib.ipynb)
+**Date:** 2022-06-24<br>
+**Author:** Luca Kröll<br>
+**Description:** Short introduction to TikZ package in LaTeX and tikzplotlib tool for Python. Fascilitates making graphs and figures for LaTeX documents.
+
 ### [Decision Tree Classifier](2022_06_10_Alker_DecisionTreeClassifier.ipynb)
 **Date:** 2022-06-10<br>
 **Author:** Katharina Alker<br>

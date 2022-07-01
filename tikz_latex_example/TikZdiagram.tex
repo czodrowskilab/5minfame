@@ -1,0 +1,34 @@
+\begin{tikzpicture}[
+roundnode/.style={circle, draw=green!60, fill=green!5, very thick, minimum size=7mm},
+squarednode/.style={rectangle, draw=red!60, fill=red!5, very thick, minimum size=5mm},
+]
+%Nodes
+\node[squarednode]      (maintopic)                              {2};
+\node[roundnode]        (uppercircle)       [above=of maintopic] {1};
+\node[squarednode]      (rightsquare)       [right=of maintopic] {3};
+\node[roundnode]        (lowercircle)       [below=of maintopic] {4};
+
+%Lines
+\draw[->] (uppercircle.south) -- (maintopic.north);
+\draw[->] (maintopic.east) -- (rightsquare.west);
+\draw[->] (rightsquare.south) .. controls +(down:7mm) and +(right:7mm) .. (lowercircle.east);
+
+\end{tikzpicture}
+
+\begin{tikzpicture}[
+yesnode/.style={circle, draw=green!60, fill=green!5, very thick, minimum size=7mm},
+nonode/.style={circle, draw=red!60, fill=red!5, very thick, minimum size=7mm},
+startnode/.style={circle, draw=blue!60, fill=blue!5, very thick, minimum size=7mm},
+]
+\node[startnode]          (start)                                           {A};
+\node[yesnode]            (firstyes)        [below right=of start]          {B};
+\node[nonode]             (firstno)         [below left=of start]           {C};
+\node[yesnode]            (secondyes)       [below right=of firstyes]       {D};
+\node[nonode]             (secondno)        [below left=of firstyes]        {E};
+
+\draw[->] (start.south) -- (firstyes.north);
+\draw[->] (start.south) -- (firstno.north);
+\draw[->] (firstyes.south) -- (secondyes.north);
+\draw[->] (firstyes.south) -- (secondno.north);
+
+\end{tikzpicture}

@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+
+% packages required for tikz and tikzplotlib
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+\DeclareUnicodeCharacter{2212}{−}
+\usepgfplotslibrary{groupplots,dateplot}
+\usetikzlibrary{patterns,shapes.arrows}
+\pgfplotsset{compat=newest}
+
+% This is for scaling tikzpictures to \textwidth
+\usepackage{environ}
+\makeatletter
+\newsavebox{\measure@tikzpicture}
+\NewEnviron{scaletikzpicturetowidth}[1]{%
+  \def\tikz@width{#1}%
+  \def\tikzscale{1}\begin{lrbox}{\measure@tikzpicture}%
+  \BODY
+  \end{lrbox}%
+  \pgfmathparse{#1/\wd\measure@tikzpicture}%
+  \edef\tikzscale{\pgfmathresult}%
+  \BODY
+}
+\makeatother
+
+\begin{document}
+
+\begin{center}
+	{\scshape\LARGE 5 Minutes of Fame \par\vspace{5cm}}
+	{\LARGE TikZ and tikzplotlib \par\vspace{5cm}}
+	{\LARGE by Luca}\newpage
+\end{center}
+
+\section{TikZ}
+TikZ can be used for creating graphics of different shape, size and complexity, all within your LaTeX source code. Let's start with some simple lines and arrows. \vspace{5mm}
+
+\input{SimpleExample}
+
+You can also use it to draw different geometric shapes: \vspace{5mm}
+
+\input{GeometricShapes}
+
+And you can even use TikZ not only for single simple shapes or arrows, but also for more complex diagrams; useful for creating workflows or decision trees ;). \vspace{1mm}
+
+\input{TikZdiagram}
+\newpage
+
+\section{tikzplotlib}
+Now to the really cool part: directly importing your matplotlib figures from whatever project you are working on as .tex file, providing high quality and easy editing.
+
+\input{Scatterplot}
+\vspace{5mm}
+
+\begin{figure}
+    \centering
+    \input{Bargraph}
+    \caption{What a nice bar graph! Just look at that beautiful thing, sitting right there in the center}
+    \label{fig:bar}
+\end{figure}
+
+
+\end{document}

@@ -4,7 +4,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
-### [Quantum Mechanics](2022_07_22-Czodrowski_.ipynb)
+### [Quantum Mechanics](2022-07-22_Czodrowski_.ipynb)
 **Date:** 2022-07-22<br>
 **Author:** Paul Czodrowski<br>
 **Description:** Quantum mechanics and analytical chemistry courses ported to Jupyter notebooks. One more thing: Blog entry by Derek Lowe

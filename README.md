@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Gradio](2022-08_05-Ha-Gradio.ipynb)
+**Date:** 2022-08-05<br>
+**Author:** Son Ha<br>
+**Description:** Quick and convenient way to set up a web interface for you machine learning model.
+
 ### [Quantum Mechanics](2022-07-22_Czodrowski_.ipynb)
 **Date:** 2022-07-22<br>
 **Author:** Paul Czodrowski<br>

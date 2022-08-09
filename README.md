@@ -4,7 +4,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
-### [Gradio](2022-08_05-Ha-Gradio.ipynb)
+### [Gradio](2022_08_05-Ha-Gradio.ipynb)
 **Date:** 2022-08-05<br>
 **Author:** Son Ha<br>
 **Description:** Quick and convenient way to set up a web interface for you machine learning model.

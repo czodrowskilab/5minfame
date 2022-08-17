@@ -4,6 +4,13 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+
+### [GitHubCopilot meets RDKit](22_08_12-Vatheuer-GitHub_Copilot_RDkit.ipynb)
+**Date:** 2022-08-12<br>
+**Author:** Helge Vatheuer<br>
+**Description:** Simple tasks of rdkit performed with the Copilot plugin inside VSCode - live demo is actually more impressive than the notebook.
+
+
 ### [Gradio](2022_08_05-Ha-Gradio.ipynb)
 **Date:** 2022-08-05<br>
 **Author:** Son Ha<br>
@@ -33,6 +40,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [Streamlit](2022_04_29-Vatheuer-Streamlit.ipynb)
 **Date:** 2022-04-29<br>
 **Author:** Helge Vatheuer
+**Description:** Streamlit is a tool to present data interactively, in a web browser - and to make little apps out of it.
 
 ### [OpenAI and Phrasebank](2022-04-08_Ha_OpenAI_and_Phrasebank.ipynb)
 **Date:** 2022-04-08<br>
@@ -59,6 +67,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ### [Bunte Tüte](2022_02_10-Vatheuer_BunteTuete.ipynb)
 **Date:** 2022-02-10<br>
 **Author:** Helge Vatheuer
+**Description:** Helpful mixture of linux command line tools and commands
 
 ### [Quick intro to Optuna](2022-02-04-Tandon-QuickIntroOptuna.ipynb)
 **Date:** 2022-02-04<br>

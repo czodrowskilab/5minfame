@@ -4,7 +4,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
-### [Writefull] (20222-09-09-Riede-Writefull.pdf)
+### [Writefull](2022-09-09-Riede-Writefull.pdf)
 
 **Date:** 2022-09-09<br>
 

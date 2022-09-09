@@ -4,6 +4,18 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Writefull] (20222-09-09-Riede-Writefull.pdf)
+
+**Date:** 2022-09-09<br>
+
+**Author:** Anna Riede<br>
+
+**Description:**
+Academic Writing requires more than a spell check. 
+Check out "Writefull" (https://www.writefull.com/) to improve your scientific papers / lab reports / ... 
+
+
+
 
 ### [GitHubCopilot meets RDKit](22_08_12-Vatheuer-GitHub_Copilot_RDkit.ipynb)
 **Date:** 2022-08-12<br>

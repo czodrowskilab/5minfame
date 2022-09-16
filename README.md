@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [IPython Widgets and Voilà](2022_09_16-Baltruschat-IPython_Widgets_and_Voila.ipynb)
+**Date:** 2022-09-16<br>
+**Author:** Marcel Baltruschat<br>
+**Description:** This notebook shows how you can build interactive widgets in Jupyter notebooks and use Voilà to create a standalone web application out of it.
+
 ### [Writefull](2022_09_09-Riede-Writefull.pdf)
 **Date:** 2022-09-09<br>
 **Author:** Anna Riede<br>

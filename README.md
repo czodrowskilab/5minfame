@@ -5,23 +5,14 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 ## Content
 
 ### [Writefull](2022-09-09-Riede-Writefull.pdf)
-
 **Date:** 2022-09-09<br>
-
 **Author:** Anna Riede<br>
+**Description:** Academic Writing requires more than a spell check. Check out "Writefull" (https://www.writefull.com/) to improve your scientific papers / lab reports / ...
 
-**Description:**
-Academic Writing requires more than a spell check. 
-Check out "Writefull" (https://www.writefull.com/) to improve your scientific papers / lab reports / ... 
-
-
-
-
-### [GitHubCopilot meets RDKit](22_08_12-Vatheuer-GitHub_Copilot_RDkit.ipynb)
+### [GitHubCopilot meets RDKit](2022_08_12-Vatheuer-GitHub_Copilot_RDKit.ipynb)
 **Date:** 2022-08-12<br>
 **Author:** Helge Vatheuer<br>
 **Description:** Simple tasks of rdkit performed with the Copilot plugin inside VSCode - live demo is actually more impressive than the notebook.
-
 
 ### [Gradio](2022_08_05-Ha-Gradio.ipynb)
 **Date:** 2022-08-05<br>
@@ -32,7 +23,6 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Date:** 2022-07-22<br>
 **Author:** Paul Czodrowski<br>
 **Description:** Quantum mechanics and analytical chemistry courses ported to Jupyter notebooks. One more thing: Blog entry by Derek Lowe
-
 
 ### [Tikzplotlib](2022_06_24-Kroell-Tikzplotlib.ipynb)
 **Date:** 2022-06-24<br>

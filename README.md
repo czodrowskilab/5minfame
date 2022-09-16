@@ -4,47 +4,42 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
-### [Writefull](2022-09-09-Riede-Writefull.pdf)
+### [IPython Widgets and Voilà](2022_09_16-Baltruschat-IPython_Widgets_and_Voila.ipynb)
+**Date:** 2022-09-16<br>
+**Author:** Marcel Baltruschat<br>
+**Description:** This notebook shows how you can build interactive widgets in Jupyter notebooks and use Voilà to create a standalone web application out of it.
 
+### [Writefull](2022_09_09-Riede-Writefull.pdf)
 **Date:** 2022-09-09<br>
-
 **Author:** Anna Riede<br>
+**Description:** Academic Writing requires more than a spell check. Check out "Writefull" (https://www.writefull.com/) to improve your scientific papers / lab reports / ...
 
-**Description:**
-Academic Writing requires more than a spell check. 
-Check out "Writefull" (https://www.writefull.com/) to improve your scientific papers / lab reports / ... 
-
-
-
-
-### [GitHubCopilot meets RDKit](22_08_12-Vatheuer-GitHub_Copilot_RDkit.ipynb)
+### [GitHubCopilot meets RDKit](2022_08_12-Vatheuer-GitHub_Copilot_RDKit.ipynb)
 **Date:** 2022-08-12<br>
 **Author:** Helge Vatheuer<br>
 **Description:** Simple tasks of rdkit performed with the Copilot plugin inside VSCode - live demo is actually more impressive than the notebook.
-
 
 ### [Gradio](2022_08_05-Ha-Gradio.ipynb)
 **Date:** 2022-08-05<br>
 **Author:** Son Ha<br>
 **Description:** Quick and convenient way to set up a web interface for you machine learning model.
 
-### [Quantum Mechanics](2022-07-22_Czodrowski_.ipynb)
+### [Quantum Mechanics](2022_07_22-Czodrowski-Quantum_Mechanics.ipynb)
 **Date:** 2022-07-22<br>
 **Author:** Paul Czodrowski<br>
 **Description:** Quantum mechanics and analytical chemistry courses ported to Jupyter notebooks. One more thing: Blog entry by Derek Lowe
-
 
 ### [Tikzplotlib](2022_06_24-Kroell-Tikzplotlib.ipynb)
 **Date:** 2022-06-24<br>
 **Author:** Luca Kröll<br>
 **Description:** Short introduction to TikZ package in LaTeX and tikzplotlib tool for Python. Fascilitates making graphs and figures for LaTeX documents.
 
-### [Decision Tree Classifier](2022_06_10_Alker_DecisionTreeClassifier.ipynb)
+### [Decision Tree Classifier](2022_06_10-Alker-DecisionTreeClassifier.ipynb)
 **Date:** 2022-06-10<br>
 **Author:** Katharina Alker<br>
 **Description:** This notebook describes how to apply a DecisionTreeClassifier with the implemented algorithm of scikit-learn, which can be found on https://scikit-learn.org/stable/modules/tree.html. Including overtraining plot and visualisation of the important features using the example of morgan fingerprints.
 
-### [(How to) Use Cohen's kappa for your binary classification models!](2022-05-06_Tandon-use_cohens_kappa_for_your_binary_classification_models.ipynb)
+### [(How to) Use Cohen's kappa for your binary classification models!](2022_05_06-Tandon-use_cohens_kappa_for_your_binary_classification_models.ipynb)
 **Date:** 2022-05-06<br>
 **Author:** Aishvarya Tandon<br>
 **Description:** This notebook introduces you to Cohen's kappa and how to incorporate it with your binary classification model workflow. It's use with k-fold cross-validation and Optuna hyperparameter optimization is also discussed.
@@ -54,7 +49,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Author:** Helge Vatheuer
 **Description:** Streamlit is a tool to present data interactively, in a web browser - and to make little apps out of it.
 
-### [OpenAI and Phrasebank](2022-04-08_Ha_OpenAI_and_Phrasebank.ipynb)
+### [OpenAI and Phrasebank](2022_04_08-Ha-OpenAI_and_Phrasebank.ipynb)
 **Date:** 2022-04-08<br>
 **Author:** Son Ha<br>
 **Description:** 1) OpenAI Gym is a collection of Reinforcement Learning environment for you to train your RL algorithm. 2) Academic Phrasebank is a collection of academic sounding phrases you can use for your report/paper.
@@ -64,7 +59,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Author:** Marcel Baltruschat<br>
 **Description:** This notebook shows how you can do hyperparameter tuning with Optuna and track the results with MLflow. It includes examples for automatic logging together with scikit-learn as well as manual logging with PyTorch.
 
-### [molplotly](2022-03-11_Czodrowski_molplotly.ipynb)
+### [molplotly](2022_03_11-Czodrowski-molplotly.ipynb)
 **Date:** 2022-03-11<br>
 **Author:** Prof. Dr. Paul Czodrowski
 
@@ -76,12 +71,12 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Date:** 2022-02-18<br>
 **Author:** Frederik Götz
 
-### [Bunte Tüte](2022_02_10-Vatheuer_BunteTuete.ipynb)
+### [Bunte Tüte](2022_02_10-Vatheuer-BunteTuete.ipynb)
 **Date:** 2022-02-10<br>
 **Author:** Helge Vatheuer
 **Description:** Helpful mixture of linux command line tools and commands
 
-### [Quick intro to Optuna](2022-02-04-Tandon-QuickIntroOptuna.ipynb)
+### [Quick intro to Optuna](2022_02_04-Tandon-QuickIntroOptuna.ipynb)
 **Date:** 2022-02-04<br>
 **Author:** Aishvarya Tandon<br>
 **Description:** This notebook introduces you to Optuna and provides cheminformatics examples for its usage.
@@ -91,7 +86,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Author:** Marcel Baltruschat<br>
 **Description:** This notebook explores PyTorch Captum and GNNExplainer integrated in PyTorch Geometric to make Graph Neural Networks interpretable and more understandable. As an example, a GNN classification model for dividing compounds in two classes according to their mutagenic effect on a bacterium is examined.
 
-### [Graph Classification with Graph Neural Networks](2022-01-21-Ha-PyG_Graph_Classification.ipynb)
+### [Graph Classification with Graph Neural Networks](2022_01_21-Ha-PyG_Graph_Classification.ipynb)
 **Date:** 2022-01-21<br>
 **Author:** Son Ha<br>
 **Description:** This Notebook goes through how to construct a simple Graph Neural Network with PyTorch Geometric.
@@ -104,7 +99,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Date:** 2021-12-17<br>
 **Author:** Julien Hazemann
 
-### [Data Visualisation Catalogue](2021-11-12-Gretz-Datavisualisation.ipynb)
+### [Data Visualisation Catalogue](2021_11_12-Gretz-Datavisualisation.ipynb)
 **Date:** 2021-11-12<br>
 **Author:** Juliana Gretz
 
@@ -116,7 +111,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Date:** 2021-10-08<br>
 **Author:** Juliana Gretz
 
-### [Pyro Showcase](2021-09-24_Ha_Pyro_Showcase.ipynb)
+### [Pyro Showcase](2021_09_24-Ha-Pyro_Showcase.ipynb)
 **Date:** 2021-09-24<br>
 **Author:** Son Ha<br>
 **Description:** This notebook showcases some implementation of Pyro, a library built on PyTorch to facilitate your need for deep neural network statistical modeling.
@@ -129,7 +124,7 @@ Check out "Writefull" (https://www.writefull.com/) to improve your scientific pa
 **Date:** 2021-08-27<br>
 **Author:** Julien Hazemann
 
-### [Load and write Pandas Dataframe faster, securely and efficiently with Parquet](2021-08-20-Tandon-Load_and_write_Pandas_Dataframe_faster_securely_and_efficiently_with_Parquet.ipynb)
+### [Load and write Pandas Dataframe faster, securely and efficiently with Parquet](2021_08_20-Tandon-Load_and_write_Pandas_Dataframe_faster_securely_and_efficiently_with_Parquet.ipynb)
 **Date:** 2021-08-20<br>
 **Author:** Aishvarya Tandon<br>
 **Description:** In this notebook, I compare different dataframe saving and reading techniques, with the focus on parquet. I show that using parquet to save and read big dataframes has advantages over other methods. 

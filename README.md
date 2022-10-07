@@ -4,6 +4,12 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Write (and read) configs with TOML](2022_10_07-Tandon-write_and_read_configs_with_toml.ipynb)
+**Date:** 2022-10-07<br>
+**Author:** Aishvarya Tandon<br>
+**Description:** Quick introduction to TOML with hands-on tutorial. You will also learn how convenient it is to prepare and read log or config files made by TOML.
+
+
 ### [IPython Widgets and Voilà](2022_09_16-Baltruschat-IPython_Widgets_and_Voila.ipynb)
 **Date:** 2022-09-16<br>
 **Author:** Marcel Baltruschat<br>

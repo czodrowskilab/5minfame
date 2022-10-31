@@ -4,7 +4,7 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
-### [Mpro fragment hit SOM clustering](2022_10_27_Hazemann_Mpro_fragment_hit_SOM_clustering.ipynb)
+### [Clustering of Mpro fragment hits with SOM](2022_10_27_Hazemann_Mpro_fragment_hit_SOM_clustering.ipynb)
 **Date:** 2022-10-27<br>
 **Author:** Julien Hazemann<br>
 **Description:** Clustering of SARS-COV-2 Mpro Fragment Hits with a Self-Organizing Map.

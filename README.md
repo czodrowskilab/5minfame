@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [RDKit Feedback](2022_10_28_RDKit_UGM_Feedback.pptx)
+**Date:** 2022_10_28<br>
+**Author:** Marcel Baltruschat, Aishvarya Tandon, Helge Vatheuer, Son Ha<br>
+**Description:** Highlights of 2022 RDKit UGM.
+
 ### [Clustering of Mpro fragment hits with SOM](2022_10_27_Hazemann_Mpro_fragment_hit_SOM_clustering.ipynb)
 **Date:** 2022-10-27<br>
 **Author:** Julien Hazemann<br>

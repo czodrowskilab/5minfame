@@ -4,6 +4,12 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [gitbook](2022_11_04-czodrowski-gitbook.ipynb)
+**Date:** 2022_11_04<br>
+**Author:** Paul Czodrowski<br>
+**Description:** gtitbook
+
+
 ### [RDKit Feedback](2022_10_28_RDKit_UGM_Feedback.pptx)
 **Date:** 2022_10_28<br>
 **Author:** Marcel Baltruschat, Aishvarya Tandon, Helge Vatheuer, Son Ha<br>

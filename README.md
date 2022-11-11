@@ -9,11 +9,15 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 **Author:** Son Ha<br>
 **Description:** Recap of AIDD School, a series of talks organised by AIDD, an EU program which Son is a part of.
 
+### [leetcode.com](2022_11_11-Adam-leetcode_com.pdf)
+**Date:** 2022_11_11<br>
+**Author:** Holger Adam<br>
+**Description:** Practice Python programming skills for newcomers by solving coding questions - nice resource how others are solving problems.
+
 ### [gitbook](2022_11_04-czodrowski-gitbook.ipynb)
 **Date:** 2022_11_04<br>
 **Author:** Paul Czodrowski<br>
 **Description:** gitbook
-
 
 ### [RDKit Feedback](2022_10_28_RDKit_UGM_Feedback.pptx)
 **Date:** 2022_10_28<br>

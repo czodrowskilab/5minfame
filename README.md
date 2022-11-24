@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Cell Cropping with Otsu's Method](2022_11_24-Ha-Cell_Cropping_with_Otsu_Method/Crop_cell.ipynb)
+**Date:** 2022_11_24<br>
+**Author:** Son Ha<br>
+**Description:** Pythonic way of cropping cells from microscopy images using Otsu's method.
+
 ### [AIDD School Feedback](2022_11_11-Ha-AIDD_Feedback.pdf)
 **Date:** 2022_11_11<br>
 **Author:** Son Ha<br>

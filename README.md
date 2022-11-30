@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Cohen's kappa](2022_11_20-Mielke-Cohen's_kappa.pptx)
+**Date:** 2022_11_20<br>
+**Author:** Alexander Mielke<br>
+**Description:** Short presentation on the Cohen's kappa score and weighted versions.
+
 ### [Cell Cropping with Otsu's Method](2022_11_24-Ha-Cell_Cropping_with_Otsu_Method/Crop_cell.ipynb)
 **Date:** 2022_11_24<br>
 **Author:** Son Ha<br>

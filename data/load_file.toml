@@ -1,0 +1,20 @@
+#Model logs in TOML-formatted data
+
+Model_Name = "Best_model_ever"
+
+Numbers_of_Folds = 5
+
+[Balanced_Accuracy_CV_Metrics]
+Balanced_Accuracy_of_all_Folds = [0.83, 0.86, 0.81, 0.81, 0.83]
+Mean_Balanced_Accuracy_CV = 0.83
+Standard_Deviation_Mean_Balanced_Accuracy_CV = 0.02
+
+[Cohens_Kappa_CV_Metrics]
+Cohens_Kappa_of_all_Folds = [0.83, 0.86, 0.81, 0.81, 0.83]
+Mean_Cohens_Kappa_CV = 0.65
+Standard_Deviation_Mean_Cohens_Kappa_CV = 0.02
+
+[Test_Set_Metrics]
+Balanced_Accuracy_Test_Set = 0.83
+Cohens_Kappa_Test_Set = 0.66
+Confusion_Matrix_Test_Set = [[129, 20], [23, 85]] 

@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [What's new in Python 3.11: My favorite additions](2022_12_09-Tandon-New_in_Python3_11.ipynb)
+**Date:** 2022-12-09<br>
+**Author:** Aishvarya Tandon<br>
+**Description:** This notebook shows 3 new features/updates in Python 3.11.
+
 ### [Cohen's kappa](2022_11_20-Mielke-Cohen's_kappa.pptx)
 **Date:** 2022_11_20<br>
 **Author:** Alexander Mielke<br>

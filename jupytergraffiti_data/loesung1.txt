@@ -1,0 +1,2 @@
+TU_Faculties = ["Mathe", "Physik", "CCB", "Informatik", "Statistik", "BCI", "Maschinenbau", "E-Technik", 
+                "Raumplanung", "Architektur", "WiWi", "Erziehung", "Reha", "HuWi", "KuWi", "Kunst/Sport"]

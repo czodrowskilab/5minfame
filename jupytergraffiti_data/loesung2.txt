@@ -1,0 +1,5 @@
+TU_Faculties_ID = {}
+for i in range(len(TU_Faculties)):
+    key = TU_Faculties[i]
+    TU_Faculties_ID[key] = i + 1
+TU_Faculties_ID

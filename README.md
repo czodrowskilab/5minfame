@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Jupyter Graffiti: an interactive screencast for jupyter notebook](2022_12_16_Lim_jupyter_graffiti.ipynb)
+**Date:** 2022-12-16<br>
+**Author:** Michel Lim<br>
+**Description:** functions and usage of Jupyter Graffiti.
+
 ### [What's new in Python 3.11: My favorite additions](2022_12_09-Tandon-New_in_Python3_11.ipynb)
 **Date:** 2022-12-09<br>
 **Author:** Aishvarya Tandon<br>

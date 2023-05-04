@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [SAR table in Jupyter notebook](2023_03_10-Hazemann-SAR_table_in_Jupyter.ipynb)
+**Date:** 2023-03-10<br>
+**Author:** Julien Hazemann<br>
+**Description:** Structure-Activity Relationship (SAR) of a tetrahydroisoquinoline series antagonist of the OX1 and OX2 orexin receptors.
+
 ### [Jupyter Graffiti: an interactive screencast for jupyter notebook](2022_12_16_Lim_jupyter_graffiti.ipynb)
 **Date:** 2022-12-16<br>
 **Author:** Michel Lim<br>

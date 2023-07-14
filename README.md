@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Talk to your data with PandasAI](2023_06_23-Hazemann-PandasAI.ipynb)
+**Date:** 2023-06-23<br>
+**Author:** Julien Hazemann<br>
+**Description:** Talk to your data with PandasAI.
+
 ### [SAR table in Jupyter notebook](2023_03_10-Hazemann-SAR_table_in_Jupyter.ipynb)
 **Date:** 2023-03-10<br>
 **Author:** Julien Hazemann<br>

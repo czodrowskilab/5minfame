@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Chemotion: an electronic labnotebook and repository](2023_07_27_michel_lim_chemotion.pptx)
+**Date:** 2023_07_28<br>
+**Author:** Michel Lim<br>
+**Description:** summary of chemotion and its main functions.
+
 ### [SAR table in Jupyter notebook](2023_03_10-Hazemann-SAR_table_in_Jupyter.ipynb)
 **Date:** 2023-03-10<br>
 **Author:** Julien Hazemann<br>

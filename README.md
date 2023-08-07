@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Chemotion: an electronic labnotebook and repository](2023_07_27_michel_lim_chemotion.pptx)
+**Date:** 2023_07_28<br>
+**Author:** Michel Lim<br>
+**Description:** summary of chemotion and its main functions.
+
 ### [Talk to your data with PandasAI](2023_06_23-Hazemann-PandasAI.ipynb)
 **Date:** 2023-06-23<br>
 **Author:** Julien Hazemann<br>

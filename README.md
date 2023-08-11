@@ -4,6 +4,11 @@ In the Czodrowski lab (www.czodrowskilab.org) group meeting, we started a sessio
 
 ## Content
 
+### [Paper recap: On the Measure of Intelligence by François Chollet](2023_08_11-Ha-on_the_measure_of_intelligence.pptx)
+**Date:** 2023_08_11<br>
+**Author:** Son Ha<br>
+**Description:** Recap of a paper on measuring intelligence in AI/ML.
+
 ### [Chemotion: an electronic labnotebook and repository](2023_07_27_michel_lim_chemotion.pptx)
 **Date:** 2023_07_28<br>
 **Author:** Michel Lim<br>
